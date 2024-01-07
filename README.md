@@ -14,6 +14,7 @@ Welcome to the Story Accordion web page! This application presents a collection 
 
 ## Preview
 
+![Short Stories Accordion](https://github.com/Umar-Ashraf09/Short-Stories-Accordion/assets/92431008/f4b7fd13-a586-43b6-a5af-f02893d05e21)
 
 
 ## Technologies Used
